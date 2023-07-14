@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristopherareche" alt="cristopherareche" /></a> </p>
 
-- 🔭 I’m currently working on [CRM (Customer Relationship Management) Website](https://crm-henry-34b.vercel.app/)
+- 🔭 I worked on [CRM (Customer Relationship Management) Website](https://crm-henry-34b.vercel.app/)
 
-- 🌱 I’m currently learning **TypeScript, MongoDB**
+- 🌱 I’m currently learning **TypeScript and Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://cristopherareche.github.io/portfolio_website/](https://cristopherareche.github.io/portfolio_website/)
 
 - 📫 How to reach me **Cristopherareche764@gmail.com**
 
-- ⚡ Fun fact **I enjoy working out and learn different things about the world of web development**
+- ⚡ Fun fact **I enjoy working out and learning different things about the world of web development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
