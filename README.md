@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hi 👋! My name is Cristopher Areche and I'm a Front-end Developer.</h3>
+<h3 align="center">Hi! My name is Cristopher Areche and I'm a Software Engineer</h3>
 
 ###
 
