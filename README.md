@@ -12,7 +12,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-> Building performant, accessible web and mobile experiences — 90+ Lighthouse scores, ~35% faster load times, and clean, reusable component systems. Currently shipping React Native at a Dominican digital bank.
+> Building performant, accessible web and mobile experiences. Currently shipping React Native at a Dominican digital bank.
 
 🌐 **[portfolio-2-0-weld.vercel.app](https://portfolio-2-0-weld.vercel.app/)** — My personal portfolio showcasing selected work and projects.
 
@@ -20,7 +20,6 @@
 
 - 🎮 **[Pokemon](https://github.com/CristopherAreche/Pokemon)** — Full-stack Pokédex: browse all 151 original Pokémon with search/filter, create custom ones with file uploads. Built with Next.js 15, TypeScript & Supabase.
 - 🏋️ **[WON](https://github.com/CristopherAreche/WON)** — AI-powered fitness web app that builds personalized training plans adapting to each user's goals, constraints, and experience level.
-- 📱 **[WON Mobile](https://github.com/CristopherAreche/WON-Mobile-Workout-Tracker)** — React Native companion app for WON, bringing AI-driven workout tracking to iOS and Android.
 - 🗂️ **[CRM](https://github.com/CristopherAreche/CRM)** — Full-stack CRM application with complete front and back end, built for managing client relationships and workflows.
 - 🎬 **[movie_inc](https://github.com/CristopherAreche/movie_inc)** — Movie discovery app built with TypeScript, consuming a third-party film API with search and browsing features.
 - 🦷 **[DentalCare](https://github.com/CristopherAreche/DentalCare)** — Landing page and booking interface for a dental care service.
@@ -28,7 +27,6 @@
 - 💪 **[Fitness Website](https://github.com/CristopherAreche/Fitness-Website)** — Fitness-focused landing page showcasing modern layout and performance practices.
 - 🏋 **[WorkoutApp](https://github.com/CristopherAreche/WorkoutApp)** — Simple React Native workout tracker — one of my first dives into mobile development.
 - 🏅 **[Gym Website](https://github.com/CristopherAreche/gym-website)** — TypeScript + Tailwind gym site built to practice component architecture and animation libraries.
-- 🌐 **[Portfolio v1](https://github.com/CristopherAreche/portfolio_website)** — The first iteration of my personal portfolio site.
 
 ## GitHub Activity
 
@@ -56,8 +54,7 @@
 - Built consumer-banking features used by **20K+ daily users** at SII (Banco Promerica, BLH, ADEMI, Banco Santa Cruz)
 - Contributed to cross-platform React Native component libraries at a Dominican digital bank
 - Migrated legacy AngularJS banking modules to Flutter — cutting load times ~30%
-- Maintained 90+ Lighthouse scores across multiple client projects
-- B.S. in Computer Science & Information Security — John Jay College, CUNY
+- B.S. in Computer Science & Information Security — John Jay College
 
 ### Philosophy
 
