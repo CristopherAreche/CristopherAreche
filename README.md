@@ -18,8 +18,8 @@
 
 ## Current Projects
 
-- 🎮 **[Pokemon](https://github.com/CristopherAreche/Pokemon)** — Full-stack Pokédex: browse all 151 original Pokémon with search/filter, create custom ones with file uploads. Built with Next.js 15, TypeScript & Supabase.
-- 🏋️ **[WON](https://github.com/CristopherAreche/WON)** — AI-powered fitness web app that builds personalized training plans adapting to each user's goals, constraints, and experience level.
+- 🎮 **[Pokemon](https://github.com/CristopherAreche/Pokemon)** — Full-stack Pokédex: browse all 151 original Pokémon with search/filter, create custom ones with file uploads.
+- 🏋️ **[WON](https://github.com/CristopherAreche/WON)** — AI-powered fitness web app that builds personalized training plans adapting to each user's goals.
 - 🗂️ **[CRM](https://github.com/CristopherAreche/CRM)** — Full-stack CRM application with complete front and back end, built for managing client relationships and workflows.
 - 🎬 **[movie_inc](https://github.com/CristopherAreche/movie_inc)** — Movie discovery app built with TypeScript, consuming a third-party film API with search and browsing features.
 - 🦷 **[DentalCare](https://github.com/CristopherAreche/DentalCare)** — Landing page and booking interface for a dental care service.
