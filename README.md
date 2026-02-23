@@ -51,7 +51,7 @@
 ### Highlights
 
 - 3+ years shipping production software across banking, healthcare, and fintech
-- Built consumer-banking features used by **20K+ daily users** at SII (Banco Promerica, BLH, ADEMI, Banco Santa Cruz)
+- Buildconsumer-banking features used by **20K+ daily users** at SII (Banco Promerica, BLH, ADEMI, Banco Santa Cruz)
 - Contributed to cross-platform React Native component libraries at a Dominican digital bank
 - Migrated legacy AngularJS banking modules to Flutter — cutting load times ~30%
 - B.S. in Computer Science & Information Security — John Jay College
