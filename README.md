@@ -21,12 +21,10 @@
 - 🎮 **[Pokemon](https://github.com/CristopherAreche/Pokemon)** — Full-stack Pokédex: browse all 151 original Pokémon with search/filter, create custom ones with file uploads.
 - 🏋️ **[WON](https://github.com/CristopherAreche/WON)** — AI-powered fitness web app that builds personalized training plans adapting to each user's goals.
 - 🗂️ **[CRM](https://github.com/CristopherAreche/CRM)** — Full-stack CRM application with complete front and back end, built for managing client relationships and workflows.
-- 🎬 **[movie_inc](https://github.com/CristopherAreche/movie_inc)** — Movie discovery app built with TypeScript, consuming a third-party film API.
+- 🎬 **[movieNow](https://github.com/CristopherAreche/movie_inc)** — Movie discovery app built with TypeScript, consuming a third-party film API.
 - 🦷 **[DentalCare](https://github.com/CristopherAreche/DentalCare)** — Landing page and booking interface for a dental care service.
 - 🍽️ **[Restaurant](https://github.com/CristopherAreche/restaurant)** — Restaurant web app built in TypeScript with a clean, responsive UI.
 - 💪 **[Fitness Website](https://github.com/CristopherAreche/Fitness-Website)** — Fitness-focused landing page showcasing modern layout and performance practices.
-- 🏋 **[WorkoutApp](https://github.com/CristopherAreche/WorkoutApp)** — Simple React Native workout tracker — one of my first dives into mobile development.
-- 🏅 **[Gym Website](https://github.com/CristopherAreche/gym-website)** — TypeScript + Tailwind gym site built to practice component architecture and animation libraries.
 
 ## GitHub Activity
 
