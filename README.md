@@ -1,70 +1,79 @@
 # Hi, I'm Cristopher 👋
 
-📍 **Santo Domingo, DR** | 💻 **Frontend-focused Full Stack Engineer** | 📱 **React Native Builder**
+**Software Engineer · React, React Native & TypeScript · Design Systems**
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+Based in Santo Domingo, Dominican Republic. I build web and mobile applications with **4+ years of professional experience across banking and healthcare**.
 
-> Building performant, accessible web and mobile experiences. Currently shipping React Native at a Dominican digital bank.
+My focus is frontend engineering: reusable components, accessible interfaces, and maintainable application architecture. I also work with backend APIs and SQL databases to deliver features across the stack.
 
-🌐 **[portfolio-2-0-weld.vercel.app](https://portfolio-2-0-weld.vercel.app/)** — My personal portfolio showcasing selected work and projects.
+[Portfolio](https://portfolio-2-0-weld.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/cristopher-areche-guillen-01a603186/) · [Email](mailto:cristopherarecheguillen04@gmail.com)
 
-## Current Projects
+## What I Work On
 
-- 🎮 **[Pokemon](https://github.com/CristopherAreche/Pokemon)** — Full-stack Pokédex: browse all 151 original Pokémon with search/filter, create custom ones with file uploads.
-- 🏋️ **[WON](https://github.com/CristopherAreche/WON)** — AI-powered fitness web app that builds personalized training plans adapting to each user's goals.
-- 🗂️ **[CRM](https://github.com/CristopherAreche/CRM)** — Full-stack CRM application with complete front and back end, built for managing client relationships and workflows.
-- 🎬 **[movieNow](https://github.com/CristopherAreche/movie_inc)** — Movie discovery app built with TypeScript, consuming a third-party film API.
-- 🦷 **[DentalCare](https://github.com/CristopherAreche/DentalCare)** — Landing page and booking interface for a dental care service.
-- 🍽️ **[Restaurant](https://github.com/CristopherAreche/restaurant)** — Restaurant web app built in TypeScript with a clean, responsive UI.
-- 💪 **[Fitness Website](https://github.com/CristopherAreche/Fitness-Website)** — Fitness-focused landing page showcasing modern layout and performance practices.
+- **React Native & design systems** — At Qik Banco Digital, I co-develop a shared component library and document component usage in Storybook to support consistent implementation across iOS and Android.
+- **Banking applications** — Previously at SII, I delivered customer-facing workflows and backend integrations using TypeScript, C#/.NET, and SQL Server, and contributed to migrations from AngularJS to Flutter.
+- **Web applications & APIs** — My experience includes React/TypeScript healthcare interfaces, Node.js/Express APIs, PostgreSQL, and client portals built with Next.js and Supabase.
+- **AI-assisted development & products** — I use Cursor to support implementation and refactoring, reviewing generated code against existing patterns. In personal projects such as WON, I explore AI-powered product features.
 
-## GitHub Activity
+## Technologies I've Worked With
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/CristopherAreche)
+My core stack is **React, React Native, TypeScript, and Next.js**. The tools below reflect experience across professional work and personal projects.
 
-## What I'm Doing
+### Frontend & Mobile
 
-- **Shipping React Native at scale** — Building and maintaining a cross-platform component library for a digital bank serving real users every day
-- **Exploring AI-powered products** — Integrating AI features into web and mobile apps (see WON)
-- **Going deeper on full-stack** — Comfortable across the whole stack: React/Next.js on the front, Node.js/Express + SQL on the back
-- **Staying sharp** — Consistently working on side projects to explore new tools, patterns, and APIs
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-## Connect
+Redux Toolkit · HTML · CSS · Tailwind CSS · Flutter · Dart · AngularJS (legacy migration)
 
-[![LinkedIn](https://img.shields.io/badge/-Cristopher_Areche-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-areche-guillen-01a603186/)
-[![Twitter](https://img.shields.io/badge/-@criistopher__ag-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/criistopher_ag)
-[![Portfolio](https://img.shields.io/badge/-portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-2-0-weld.vercel.app/)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CristopherAreche)
+### UI Engineering & Quality
 
----
+Storybook · Figma · Design systems · Design tokens · Reusable components · Responsive design · Accessibility · Performance optimization · React Testing Library
 
-### Highlights
+### Backend & Data
 
-- 3+ years shipping production software across banking, healthcare, and fintech
-- Buildconsumer-banking features used by **20K+ daily users** at SII (Banco Promerica, BLH, ADEMI, Banco Santa Cruz)
-- Contributed to cross-platform React Native component libraries at a Dominican digital bank
-- Migrated legacy AngularJS banking modules to Flutter — cutting load times ~30%
-- B.S. in Computer Science & Information Security — John Jay College
+Node.js · Express · C# · .NET · ASP.NET MVC / Web API · REST APIs · PostgreSQL · SQL Server · Sequelize · Supabase · Supabase Auth
 
-### Philosophy
+### Cloud & Development Tools
 
-> "Good software is invisible — it just works. I care about the details: performance, accessibility, maintainability, and the user's experience from first load to last interaction."
+AWS / Amazon RDS · Vercel · Git · GitLab CI/CD · Cursor
+
+## Selected Projects
+
+### [WON](https://github.com/CristopherAreche/WON)
+
+AI-powered fitness application that generates workout plans based on a user's goals, experience, equipment, and availability. A personal project exploring AI-assisted planning and onboarding workflows.
+
+### [Pokemon](https://github.com/CristopherAreche/Pokemon)
+
+Full-stack Pokédex with search and filtering for the original 151 Pokémon, plus custom Pokémon creation and file uploads.
+
+### [movieNow](https://github.com/CristopherAreche/movie_inc)
+
+Movie discovery application built with TypeScript and a third-party film API.
 
 <details>
-<summary>Random Facts</summary>
+<summary>More projects</summary>
 
-- Bilingual: Spanish (native) & English (professional)
-- Based in Santo Domingo — building remotely for the world
-- Deeply organized: I track everything from sprints to finances
-- Always has a side project running
-- Gym regular (when the code compiles)
+- [DentalCare](https://github.com/CristopherAreche/DentalCare) — Dental care landing page and booking interface.
+- [Restaurant](https://github.com/CristopherAreche/restaurant) — Restaurant web application with a responsive interface.
+- [Fitness Website](https://github.com/CristopherAreche/Fitness-Website) — Fitness landing page focused on responsive layout.
 
 </details>
+
+## Background & Opportunities
+
+- **B.S. in Computer Science & Information Security** — John Jay College of Criminal Justice, 2022.
+- **A.S. in Computer Information Systems** — Borough of Manhattan Community College, 2020.
+- **Languages:** English and Spanish.
+- Open to remote **frontend, React Native, and frontend-focused full-stack** opportunities from the Dominican Republic.
+- Available to relocate to **New York City or Boston**. U.S. citizen; no sponsorship required.
+
+## How I Approach Engineering
+
+I care about the details that make software easier to use and maintain: clear component APIs, consistent interactions, useful documentation, and thoughtful collaboration with design, product, and backend teams.
+
+Outside of work, I enjoy building personal projects and spending time at the gym.
